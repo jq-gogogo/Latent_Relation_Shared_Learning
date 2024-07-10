@@ -10,3 +10,5 @@
 - scikit-learn
 - OpenCV
 - Pillow
+## Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request
+## Please request from lead contact for non-commercial, research purposes
